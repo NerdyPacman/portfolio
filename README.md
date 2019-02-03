@@ -1,5 +1,5 @@
 # portfolio
-This is my portfolio for Computer Science.
+This is my portfolio from high school. It contains Computer Science projects to show my passion for Computer Science.
 
 Project | Description
 ------- | -----------
