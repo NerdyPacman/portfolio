@@ -11,7 +11,7 @@ Pig Latin | Outputs Pig-latinized input according to Wikipedia's rules for Pig L
 # AxolotlLib
 A collection of useful (or not so useful) methods that I've made. It includes any method I've made that could be applied to multiple completely different projects.
 
-##Array Class
+## Array Class
 These are functions relating to Arrays and manipulating them.
 
 Method | Description
