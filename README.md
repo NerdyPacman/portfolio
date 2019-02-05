@@ -2,7 +2,7 @@
 This is my portfolio from high school. It contains Computer Science projects to show my passion for Computer Science.
 
 # Beginner Projects
-
+These are some relatively boring and unoriginal programs to practice programming.
 Project | Description
 ------- | -----------
 Reverse A String | Outputs what you input but reversed.
@@ -12,7 +12,7 @@ Pig Latin | Outputs Pig-latinized input according to Wikipedia's rules for Pig L
 A collection of useful (or not so useful) methods that I've made. It includes any method I've made that could be applied to multiple completely different projects.
 
 ## Array Class
-These are functions relating to Arrays and manipulating them.
+These are methods relating to Arrays and manipulating them.
 
 Method | Description
 -------- | -----------
