@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Introduction
 This is my portfolio from high school. It contains Computer Science projects to show my passion for Computer Science.
 
 # Beginner Projects
