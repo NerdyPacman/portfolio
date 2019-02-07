@@ -19,3 +19,6 @@ Method | Description
 isElementInArray | Returns true if a given element is in a given array.
 append | Returns a single array that is one array/element appended to another.
 removeElement | Returns an array with an element at a given index removed from the array.
+
+# USACO
+These are programs made for the USACO training site. These algorithmic programs will not compile without specifically formatted input. The descriptions of these programs can be found on the USACO training site.
