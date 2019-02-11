@@ -3,6 +3,7 @@ This is my portfolio from high school. It contains Computer Science projects to 
 
 # Beginner Projects
 These are some relatively boring and unoriginal programs to practice programming.
+
 Project | Description
 ------- | -----------
 Reverse A String | Outputs what you input but reversed.
